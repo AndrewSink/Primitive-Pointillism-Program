@@ -1,6 +1,8 @@
 # Primitive-Pointillism-Program
 A program that converts an image into a collection of primitive shapes, created in p5js! 
 
+Try it online here: https://editor.p5js.org/Andrew_Sink/present/ys1Busx56
+
 ![](https://user-images.githubusercontent.com/46334898/90784445-46abe700-e2cf-11ea-9369-e9fbb7524ec1.png)
 
 This program will generate a pointillism portrait using randomly selected points on an uploaded image and generating primitive shape at those points. The types of primitives can be controlled (square, triangle, circle, or random), and you can selected more than one at a time.
