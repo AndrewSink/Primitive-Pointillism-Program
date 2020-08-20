@@ -26,6 +26,6 @@ Reset / Resize: Clears canvas
 
 ![](https://user-images.githubusercontent.com/46334898/90784810-a73b2400-e2cf-11ea-907b-89a23bb48364.gif)
 
-The initial code was inspired by Daniel Shiffman's [Pointillism](https://processing.org/examples/pointillism.html) Processing program, and interface was inspired by Michael Fogleman's [Primitive](https://github.com/fogleman/primitive), but mine uses a MUCH simpler method of generating the shapes. 
+The initial code was inspired by Daniel Shiffman's [Pointillism](https://processing.org/examples/pointillism.html) Processing program, and interface was inspired by Michael Fogleman's [Primitive](https://github.com/fogleman/primitive).
 
 Feel free to reach out to me [on Twitter](https://twitter.com/AndrewASink) with any questions!
