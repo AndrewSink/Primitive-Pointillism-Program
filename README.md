@@ -1,7 +1,7 @@
 # Primitive-Pointillism-Program
 A program that converts an image into a collection of primitive shapes, created in p5js! 
 
-Try it online here: https://editor.p5js.org/Andrew_Sink/present/ys1Busx56
+Try it online here: https://www.openprocessing.org/sketch/947598
 
 ![](https://user-images.githubusercontent.com/46334898/90784445-46abe700-e2cf-11ea-9369-e9fbb7524ec1.png)
 
